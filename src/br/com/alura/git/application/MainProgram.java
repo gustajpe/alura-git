@@ -7,6 +7,7 @@ public class MainProgram {
 		
 		System.out.println("Hello Git");
 		System.out.println("Hello Git versao 2");
+		System.out.println("Hello Git alteracao Ana.");
 
 	}
 
