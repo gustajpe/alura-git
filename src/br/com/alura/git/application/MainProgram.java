@@ -12,7 +12,5 @@ public class MainProgram {
 		
 		System.out.println("teste de rebase, criado na branch titulo");
 		
-		System.out.println("alteracoes com commit");
-		
 	}
 }
