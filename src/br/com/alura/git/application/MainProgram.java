@@ -11,8 +11,8 @@ public class MainProgram {
 		System.out.println("Gustavo Teste branch Titulo");
 		
 		System.out.println("teste de rebase, criado na branch titulo");
-		
 		System.out.println("Teste para Depois");
+		System.out.println("git diff test");
 		
 	}
 }
